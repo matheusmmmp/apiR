@@ -85,3 +85,5 @@ if __name__ == '__main__':
             print("=" * 50)
     else:
         print("Nenhum histórico de partidas encontrado.")
+
+#%%

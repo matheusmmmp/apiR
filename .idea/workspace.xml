@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a50019b-940c-4075-acce-e705cc58320f" name="Changes" comment="Firstsd">
-      <change afterPath="$PROJECT_DIR$/challangeNoteBook.ipynb" afterDir="false" />
+    <list default="true" id="4a50019b-940c-4075-acce-e705cc58320f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenges.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challangeNoteBook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/challangeNoteBook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;matheusmmmp&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -73,6 +78,14 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f9a53179-fb6f-4b4d-8268-bff9fed6e3b7" />
+        <option name="url" value="https://github.com/matheusmmmp/apiR.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -92,6 +105,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/programador4/PycharmProjects/apiR",
     "node.js.detected.package.eslint": "true",
